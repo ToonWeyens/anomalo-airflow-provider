@@ -21,7 +21,7 @@ From the airflow UI, go to Admin > Connections and hit the `+` button at the top
 
 From the "Connection Type" drop down, select "Anomalo".
 ![connection](https://github.com/anomalo-hq/anomalo-airflow-provider/blob/main/docs/connection.png?raw=True)
-Then fill in the fields for "Connection Id" (`anomalo-default` is the default connection id), "Host", and "API Secret Token".
+Then fill in the fields for "Connection Id" (`anomalo_default` is the default connection id), "Host", and "API Secret Token".
 
 ## Usage
 
